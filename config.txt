@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "436fa6bcff322ba785f710b529b86c9a",
 # 模板消息id
-"template_id": "xY_wzTFNxCSeyUGMzhMxIdb8LiOhvBXGu5AsPc5Ti04",
+"template_id": "	SUFiH6LvB8MY3ZxFUvoAX7hAnvXlbEgtOHMqU0XLOZA",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oGz5n6xWURT3n3HHVZLC5NcnIeCQ", "oGz5n6y_qVfm2ZyO_fdHLf7BMMfA"],
  
@@ -15,7 +15,7 @@
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "南昌",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "周宝贝", "birthday": "2001-01-01"},
+"birthday1": {"name": "邵同岩", "birthday": "2001-12-08"},
 # 生日2
 "birthday2": {"name": "周宝贝", "birthday": "2003-04-02"},
 # 在一起的日子，格式同上，暂不不支持农历
